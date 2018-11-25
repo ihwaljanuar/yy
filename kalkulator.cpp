@@ -8,7 +8,7 @@ int main()
 
     cout<< "Masukan Nilai Pertama : ";
     cin >>a;
-    cout << "Masukan Nilai Kedia : ";
+    cout << "Masukan Nilai kedua : ";
     cin >>b;
 
 label:
